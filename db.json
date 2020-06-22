@@ -2,13 +2,13 @@
   {
     "id": 1,
     "day": "Wednesday",
-    "shift":"null",
+    "shift":"24 June @22:00",
     "dep":"Birth"
   },
   {
     "id": 2,
     "day": "Thursday",
-    "shift":"null",
+    "shift":"25 June @22:00",
     "dep":"Birth"
   }
 ]
