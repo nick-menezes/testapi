@@ -1,14 +1,18 @@
 [
   {
     "id": 1,
+    "shift":"night",
     "day": "Wednesday",
-    "shift":"24 June @22:00",
-    "dep":"Birth"
+    "date":"24 June 2020",
+    "time":"22:00:00",
+    "dep":"Birth Suite"
   },
   {
     "id": 2,
+    "shift":"night",
     "day": "Thursday",
-    "shift":"25 June @22:00",
-    "dep":"Birth"
+    "date":"25 June 2020",
+    "time":"22:00:00",
+    "dep":"Birth Suite"
   }
 ]
